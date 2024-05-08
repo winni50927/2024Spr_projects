@@ -42,7 +42,6 @@ Yes, players who are the first to meet the cold_start requirement (by playing on
 
 
 ### Future Work:
-
 1. Players employ selective strategies have a higher probability of winning.
 2. Players with the competence to reorganize more existing sets into new sets and runs are more likely to win.
 
