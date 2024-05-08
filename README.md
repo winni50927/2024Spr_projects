@@ -1,4 +1,3 @@
-# 2024Spr_projects
 
 ### Project Name: 
 #### Succeed in Rummikub: Apply Monte Carlo Simulation in Unveiling What Could Bring Advantages to A Rummy Player.
