@@ -46,4 +46,12 @@ Yes, players who are the first to meet the cold_start requirement (by playing on
    
 3. Players with the competence to reorganize more existing sets into new sets and runs are more likely to win.
 
+### Reference:
+1. https://canvas.illinois.edu/courses/42165/pages/in-class-a-simplistic-simulation-of-viral-spre-dot-dot-dot?module_item_id=3108657
+2. https://bd-boardgame.com/2015/10/23/邏輯桌遊-拉密-rummikub-數字麻將-以色列麻將-規則介紹/
+3. https://mediaspace.illinois.edu/media/t/1_lawwsyso 老師做project的影片
+4. 卡譚島：https://github.com/S1monXuan/2023Spr_projects_catan_simulation/blob/main/Monte_Carlo_Simulation_597.pptx
+5. The idea of utilizing 1-52 to represent 1-13 in four suits comes from: Pei-Yi Ding http://squall.cs.ntou.edu.tw/cprog/practices/p05-3%20Poker%20hand%20ranking.pdf
+6. The Object-Oriented-Design, stats, and Monte Carlo Simulation function of the Game are learned from: Mr. Weible, MC_rock_paper_scissors.py
+
 
