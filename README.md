@@ -6,7 +6,7 @@
 
 ### Abstract:
 
-Rummikub is a classic board game whose invention can be traced back to the time after World War II. The game has 106 tiles, including 2 sets of 1 - 13 in four colors and 2 wildcards. Each player will be randomly assigned 14 tiles initially, and the rule of the game requires players to use their own tiles or combine their tiles with public melds to create melds formed as runs (e.g. 5, 6, 7) or groups (e.g. 7, 7, 7) with at least 3 components. All melds created will become public melds that can be used by all players. If players cannot create any melds in their rounds, they need to draw a new tile. The winner is the first one to get rid of all of his or her tiles. 
+Rummikub is a classic board game whose invention can be traced back to the time after World War II. The game has 106 tiles, including 2 sets of 1 - 13 in four colors and 2 wildcards. Each player will be randomly assigned 14 tiles initially, and the rule of the game requires players to use their own tiles or combine their tiles with public melds to create melds formed as runs (e.g. 5, 6, 7) or groups (e.g. 7, 7, 7) with at least 3 components. All melds created will become public melds that can be used by all players. If players cannot create any melds in their rounds, they need to draw a new tile. The winner is the first one to get rid of all of his or her tiles or the one who has less tiles in hand with the least value. 
 
 In the final project, I plan to develop a Type II project, utilizing Monte Carlo Simulation to test the hypotheses, to determine those strategies or competence that can actually attribute to a higher probability of winning Rummikub games.
 
