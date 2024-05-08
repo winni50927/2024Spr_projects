@@ -26,30 +26,7 @@ In the final project, I plan to develop a Type II project, utilizing Monte Carlo
 
 
 ### Stats Result Example:
-
------------------------------------------------------------------
-
-Tournament Player Statistics:
-
-Name             Win%      Won       Lost
--------------- ------ ----------- ----------
-Winni            21.91%       2191       7809
-Peter            23.69%       2369       7631
-Rachel           26.74%       2674       7326
-Carol            30.11%       3011       6989
-
-First Cold_Start Winning States
-
-Name                             Win%      Won       Lost
------------------------------- ------ ----------- ----------
-Winni                           26.83%       1021       2785
-Peter                           30.14%        840       1947
-Rachel                          34.34%        679       1298
-Carol                           39.65%        567        863
------------------------------- ------ ----------- ----------
-
-Aggregate first_cold_start     31.07%       3107       6893
-Average not_first_cold_start   22.98%       2298       7702
+![Rummy result game.](https://github.com/winni50927/2024Spr_projects/blob/main/Rummy_result_example.png)
 
 
 ### Conclusion:
