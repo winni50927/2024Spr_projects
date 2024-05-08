@@ -37,7 +37,7 @@ Contrary to what might be expected, the answer is no. Players who act later have
 
 2. Does the first player to pass the cold_start threshold have a higher probability of winning?
 
-Yes, players who are the first to meet the cold_start requirement (by playing one or multiple sets totaling at least 30 points) show a higher winning percentage. Specifically, they have a 33.4% chance of winning, which is significantly higher than the 16.6% winning rate of players who are not the first to pass this threshold.
+Yes, players who are the first to meet the cold_start requirement (by playing one or multiple sets totaling at least 30 points) show a higher winning percentage. Specifically, they have over a 30% chance of winning, which is significantly higher than the winning rate of players who are not the first to pass this threshold.
 
 
 ### Future Work:
