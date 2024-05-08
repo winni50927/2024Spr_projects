@@ -43,8 +43,11 @@ Yes, players who are the first to meet the cold_start requirement (by playing on
 ### Future Work:
 
 1. Players employ selective strategies have a higher probability of winning.
-   
-3. Players with the competence to reorganize more existing sets into new sets and runs are more likely to win.
+2. Players with the competence to reorganize more existing sets into new sets and runs are more likely to win.
+
+### Usage:
+Open the MC_Rummikub_core.py to start enjoying the Rummikub simulation!
+If you want to see the detail of each game, please set up 1 for the number_games and modify the verbose in the monte_carlo_simulation to True. 
 
 ### Reference:
 1. https://canvas.illinois.edu/courses/42165/pages/in-class-a-simplistic-simulation-of-viral-spre-dot-dot-dot?module_item_id=3108657
