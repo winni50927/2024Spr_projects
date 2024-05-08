@@ -17,6 +17,8 @@ In the final project, I plan to develop a Type II project, utilizing Monte Carlo
 2. The players' order to playe are fixed for now. Winni -> Peter -> Rachel -> Carol 
 3. Each player can play multiple times in one round.
 4. Each player will play all the tiles and melds they can play in each round, without reservation.
+5. Winning Condition: The winner is determined as the first player to empty their hand. If the deck is exhausted, the winner is the player with the fewest tiles remaining in their hand, with a tiebreaker based on the lowest total value of those tiles.
+6. Player Order: The order of play is fixed. Winni is the first player, followed by Peter as the second, Rachel as the third, and Carol as the fourth.
 
 ### Hypothesis:
 
@@ -52,8 +54,8 @@ If you want to see the detail of each game, please set up 1 for the number_games
 ### Reference:
 1. https://canvas.illinois.edu/courses/42165/pages/in-class-a-simplistic-simulation-of-viral-spre-dot-dot-dot?module_item_id=3108657
 2. https://bd-boardgame.com/2015/10/23/邏輯桌遊-拉密-rummikub-數字麻將-以色列麻將-規則介紹/
-3. https://mediaspace.illinois.edu/media/t/1_lawwsyso 老師做project的影片
-4. 卡譚島：https://github.com/S1monXuan/2023Spr_projects_catan_simulation/blob/main/Monte_Carlo_Simulation_597.pptx
+3. https://mediaspace.illinois.edu/media/t/1_lawwsyso 
+4. Katan board game simulation：https://github.com/S1monXuan/2023Spr_projects_catan_simulation/blob/main/Monte_Carlo_Simulation_597.pptx
 5. The idea of utilizing 1-52 to represent 1-13 in four suits comes from: Pei-Yi Ding http://squall.cs.ntou.edu.tw/cprog/practices/p05-3%20Poker%20hand%20ranking.pdf
 6. The Object-Oriented-Design, stats, and Monte Carlo Simulation function of the Game are learned from: Mr. Weible, MC_rock_paper_scissors.py
 
