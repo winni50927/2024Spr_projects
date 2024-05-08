@@ -55,10 +55,12 @@ Average not_first_cold_start   22.98%       2298       7702
 ### Conclusion:
 
 1. Does the player who goes first have a higher winning percentage?
-  A: Contrary to what might be expected, the answer is no. Players who act later have a higher chance of winning. This is because, in Rummikub, players can utilize tiles from the public pool (the river), which are laid down by others. The more tiles available in the river, the greater the chances that a player can meld their hand tiles effectively.
+
+Contrary to what might be expected, the answer is no. Players who act later have a higher chance of winning. This is because, in Rummikub, players can utilize tiles from the public pool (the river), which are laid down by others. The more tiles available in the river, the greater the chances that a player can meld their hand tiles effectively.
 
 2. Does the first player to pass the cold_start threshold have a higher probability of winning?
-  A: Yes, players who are the first to meet the cold_start requirement (by playing one or multiple sets totaling at least 30 points) show a higher winning percentage. Specifically, they have a 33.4% chance of winning, which is significantly higher than the 16.6% winning rate of players who are not the first to pass this threshold.
+
+Yes, players who are the first to meet the cold_start requirement (by playing one or multiple sets totaling at least 30 points) show a higher winning percentage. Specifically, they have a 33.4% chance of winning, which is significantly higher than the 16.6% winning rate of players who are not the first to pass this threshold.
 
 
 ### Future Work:
